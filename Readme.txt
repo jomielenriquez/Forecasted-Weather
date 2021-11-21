@@ -1,4 +1,4 @@
-Created bu Jomiel Enriquez
+Created by Jomiel Enriquez
 November 21, 2021
 
 1. Install python
