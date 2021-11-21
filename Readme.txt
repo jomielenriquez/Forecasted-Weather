@@ -1,10 +1,10 @@
 Created by Jomiel Enriquez
 November 21, 2021
 
-1. Install python
-2. install requests on python
-3. register on open weather map
-4. get your API and ID in open weather map
+1. Install python using this link https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe
+2. Install requests on python. Follow this link https://pypi.org/project/requests/
+3. Register on open weather map
+4. Get your API and ID in open weather map
 5. Run the code in python
   -steps on running the code
   1. open cmd
