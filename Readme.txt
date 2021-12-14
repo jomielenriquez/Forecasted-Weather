@@ -12,4 +12,10 @@ November 21, 2021
   3. enter 'python <filename.py>' in cmd
 
 test
+--Request using city id as parameter
 http://api.openweathermap.org/data/2.5/forecast?id=1683340&appid=1ae76ac0b8679d9b65ae01f37ea44b16
+
+
+--Request using latitude and longitude as parameter
+--Detailed Intruction: https://openweathermap.org/api/one-call-api
+https://api.openweathermap.org/data/2.5/onecall?lat=14.074368&lon=121.147179&exclude=hourly&appid=1ae76ac0b8679d9b65ae01f37ea44b16
